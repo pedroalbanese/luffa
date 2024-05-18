@@ -1,0 +1,2 @@
+# luffa
+Luffa Hash Function
